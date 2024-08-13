@@ -21,7 +21,7 @@ class SplHeader extends HTMLElement{
         </nav>
 
         <div class="mobile-menu" id="mobile-menu">
-            <li><a href="/index.html">Home</a></li>
+            <li><a href="index.html">Home</a></li>
             <li><a href="navigation.html">Navigation</a></li>
             <li><a href="index.html#about">About Us</a></li>
             <li><a href="index.html#contactus">Contact Us</a></li>
