@@ -265,7 +265,7 @@ button:hover {
   font-size: 1.2rem;
   transition: transform 0.4s;
   cursor: pointer;
-  font-family: Book Antiqua,palatino;
+  font-family:  "Book Antiqua,palatino";
 }
 
 
