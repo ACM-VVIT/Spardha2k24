@@ -5,7 +5,7 @@ html {
   height: 100%;
   width: 100%;
 
-  font-family: "Book Antiqua,palatino";
+  font-family: "Book Antique", palatino;
   overflow-x: hidden;
   background-color: #f9f9f9;
 }
@@ -74,7 +74,7 @@ button {
   font-size: 1.2rem;
   transition: transform 0.4s;
   cursor: pointer;
-  font-family: "Book Antiqua,palatino";
+  font-family: "Book Antique", palatino;
   /* margin-left: -200px; */
 }
 
@@ -172,7 +172,7 @@ button:hover {
   min-height: 200px;
   text-align: center;
   color: black;
-  font-family: "Book Antiqua,palatino";
+  font-family: "Book Antique", palatino;
   transition: transform 0.3s ease-in-out;
   /* background-color: #f9f9f9; */
   /* border: 1px solid #ddd; */
@@ -239,7 +239,7 @@ button:hover {
 .vr-heading {
   font-size: 2.5rem;
 
-  font-family: "Book Antiqua,palatino";
+  font-family: "Book Antique", palatino;
   margin-bottom: 20px;
 }
 .image-container {
@@ -265,7 +265,7 @@ button:hover {
   font-size: 1.2rem;
   transition: transform 0.4s;
   cursor: pointer;
-  font-family:  "Book Antiqua,palatino";
+  font-family:  "Book Antique", palatino;
 }
 
 
@@ -418,7 +418,7 @@ button:hover {
 .google-map h2 {
   font-weight: lighter;
 
-  font-family: "Book Antiqua,palatino";
+  font-family: "Book Antique", palatino;
   color: #fff;
   margin-bottom: 20px;
 }
